@@ -1,3 +1,39 @@
+<!-- PROJECT LOGO -->
+<p align="center">
+
+  <h1 align="center">Promptia</h1>
+
+  <h3 align="center">
+   A Full-Stack Responsive Website for AI Prompts (NextJS)
+  </h3>
+ <br />
+ 
+ ### Click here for live demo   <a href="https://next-fullstack-promptia-r1prw9uds-muradtaghiyev05.vercel.app/">Promptia</a>
+
+</p>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project:-
+
+![Home page](https://github.com/muradtaghiyev05/next-fullstack-promptia/blob/main/prompt.jpg "Promptia home page")
+
+#### The common functionalities are:-
+
+- The user can sign in with google authentication
+- The user can see all the prompts created by other users
+- The user can create, update and delete their own prompts
+- The user can search prompts according to their context, tag or author
+
+### Built With
+
+- #### React
+- #### NextJS
+- #### Next Auth
+- #### Tailwind CSS
+- #### MongoDB
+- #### Mongoose
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
