@@ -8,7 +8,7 @@
   </h3>
  <br />
  
- ### Click here for live demo   <a href="https://next-fullstack-promptia-r1prw9uds-muradtaghiyev05.vercel.app/">Promptia</a>
+ ### Click here for live demo   <a href="https://next-fullstack-promptia.vercel.app/">Promptia</a>
 
 </p>
 
