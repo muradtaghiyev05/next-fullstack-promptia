@@ -24,6 +24,7 @@
 - The user can see all the prompts created by other users
 - The user can create, update and delete their own prompts
 - The user can search prompts according to their context, tag or author
+- The user can copy the prompts to the clipboard
 
 ### Built With
 
